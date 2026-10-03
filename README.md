@@ -208,4 +208,4 @@ Brutal Chess is available as a full free version with all features and updates i
 Don’t miss out on the fun! Download Brutal Chess today and start your journey to becoming a chess master!
 
 ---
-**Last updated:** 2026-10-03 06:14:58 UTC
+**Last updated:** 2026-10-03 12:22:04 UTC
